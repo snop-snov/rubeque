@@ -1,7 +1,7 @@
 require 'bundler/setup'
 #Bundler.require
-#require 'coveralls'
-#Coveralls.wear!
+require 'coveralls'
+Coveralls.wear!
 
 #require 'simplecov'
 #SimpleCov.start
